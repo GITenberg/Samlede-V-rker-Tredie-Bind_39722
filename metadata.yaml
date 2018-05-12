@@ -19,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Jeppe_Aakj%C3%A6r
     - http://da.wikipedia.org/wiki/Jeppe_Aakj%C3%A6r
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39722#Samlede-V-rker-Tredie-Bind
 gutenberg_issued: '2012-05-18'
 gutenberg_type: Text
 identifiers:
